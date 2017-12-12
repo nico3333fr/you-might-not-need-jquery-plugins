@@ -1,0 +1,11 @@
+---
+layout: default 
+title: Van11y accessible tabs panel system, using ARIA
+link: "https://github.com/nico3333fr/van11y-accessible-tab-panel-aria"
+ie8: false 
+ie9: true
+ie10: true 
+categories: [tabs]
+tags: [jquery-ui]
+---
+ES2015 accessible tab panel script, transpiled version is IE9+ friendly.
